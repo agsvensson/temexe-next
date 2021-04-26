@@ -1,6 +1,5 @@
+![](https://github.com/agsvensson/temexe-next/blob/main/docs/logo.png)
 # Te Mexe!
-
-		![](https://github.com/agsvensson/temexe-next/docs/logo.png)
 
 		Desenvolvido na Next Level Week #4 da Rocketseat.
 
