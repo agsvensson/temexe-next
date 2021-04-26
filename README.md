@@ -1,4 +1,8 @@
-		<center>![](https://github.com/agsvensson/temexe-next/blob/main/docs/logo.png)</center>
+	
+<p align="center">
+  <img src="https://github.com/agsvensson/temexe-next/blob/main/docs/logo.png?raw=true" alt="Logo"/>
+</p>
+
 # Te Mexe!
 Desenvolvido na Next Level Week #4 da Rocketseat em 02/2021.
 
